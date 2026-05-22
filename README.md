@@ -50,6 +50,16 @@ cleppy = {
 
 ---
 
+### contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleppy/cleppy/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cleppy/cleppy/output/snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/cleppy/cleppy/output/snake.svg"/>
+</picture>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
