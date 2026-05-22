@@ -20,9 +20,9 @@
 ```python
 cleppy = {
     "languages":  ["Python", "Go", "C++"],
-    "currently":  "i have brought peace, freedom, justice, and security to my new empire",
+    "currently":  ["i have brought peace, freedom, justice, and security to my new empire"],
     "interests":  ["bots", "injection", "esp", "automation"],
-    "open_to":    "highground",
+    "open_to":    ["highground"],
 }
 ```
 
