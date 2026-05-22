@@ -9,7 +9,7 @@
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=cleppy&style=flat-square&color=A78BFA&label=profile+views)
-[![Discord](https://img.shields.io/badge/acleppy-1a1a2e?style=flat-square&logo=discord&logoColor=A78BFA)](https://discord.com/users/acleppy)
+![Discord](https://img.shields.io/badge/acleppy-1a1a2e?style=flat-square&logo=discord&logoColor=A78BFA)
 
 </div>
 
@@ -20,7 +20,7 @@
 ```python
 cleppy = {
     "languages":  ["Python", "Go", "C++"],
-    "i_have":     "brought peace, freedom, justice, and security to my new empire",
+    "currently":  "i have brought peace, freedom, justice, and security to my new empire",
     "interests":  ["bots", "injection", "esp", "automation"],
     "open_to":    "highground",
 }
@@ -41,13 +41,6 @@ cleppy = {
 ---
 
 ### github stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cleppy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleppy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=ffffff" height="160"/>
-
-</div>
 
 <div align="center">
 
